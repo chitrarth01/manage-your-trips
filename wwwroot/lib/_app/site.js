@@ -1,1 +1,0 @@
-!function(){$("#username").text("Chitrarth Singh");var e=$("#sidebar,#wrapper"),a=$("#sidebarToggle i.fa");$("#sidebarToggle").on("click",function(){e.toggleClass("hide-sidebar"),e.hasClass("hide-sidebar")?(a.removeClass("fa-chevron-left"),a.addClass("fa-chevron-right")):(a.addClass("fa-chevron-left"),a.removeClass("fa-chevron-right"))})}();
